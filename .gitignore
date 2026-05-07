@@ -1,0 +1,20 @@
+# Local secrets
+.env
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Build/cache output
+build/
+dist/
+.cache/

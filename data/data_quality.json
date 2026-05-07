@@ -1,0 +1,13 @@
+{
+  "source_rows": 37014,
+  "analytics_rows": 37014,
+  "report_year_min": 1990,
+  "report_year_max": 2025,
+  "payment_complete_pct": 100.0,
+  "severity_complete_pct": 57.8,
+  "patient_detail_complete_pct": 55.1,
+  "event_year_complete_pct": 99.7,
+  "report_lag_complete_pct": 99.7,
+  "work_state_complete_pct": 84.9,
+  "codebook_source": "NPDB Public Use Data File Format Specifications"
+}
